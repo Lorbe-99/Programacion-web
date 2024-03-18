@@ -19,3 +19,9 @@ body{
 .colDer{
     margin-left: 10%;
 }
+
+#caja{
+    display: block;
+    width: 50%;
+
+}
