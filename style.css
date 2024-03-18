@@ -1,0 +1,21 @@
+/**/
+
+body{
+    background-color: blue;
+}
+/*tag{propiedad:valor}*/
+
+#parrafoEnBlanco{/*esto es un ID*/
+    color: white;
+}
+.letraGrande{ /* esto es una clase*/
+    font-size: 30px;
+
+}
+.margenIzquierdo{ /* esto es una clase*/
+    margin-left: 10px;
+}
+
+.colDer{
+    margin-left: 10%;
+}
