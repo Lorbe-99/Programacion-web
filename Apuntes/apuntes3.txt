@@ -1,0 +1,10 @@
+el if se escribe como @media, clave el media queries
+tengo que primero hacer la version mobile primero(a chekear)
+layout it
+como evitar el que se extenda mas de loque debe,overflow:hidden
+para adaptarlo es, cambiar la caja
+footer pegado a la pantalla, position absolute: bottom 0
+para la navigation bat
+camibar de colores las cosas, pseudoclase--hover
+-psedoelementos,primera letra capital,el after y el before
+colores imagenes y responsive para la primera entrega
